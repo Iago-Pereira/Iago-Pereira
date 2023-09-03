@@ -7,6 +7,8 @@
 
 - 👨‍💻 Concluí o Curso de Pandas: [Desbravando Pandas](https://github.com/Iago-Pereira/desbravando-pandas)
 
+- 👨‍💻 Modelos desenvolvidos na disciplina: [Aprendizado de Máquina I](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iago-fonseca-marinho-pereira-79046653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iago-fonseca-marinho-pereira-79046653" height="30" width="40" /></a>
