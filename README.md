@@ -5,7 +5,7 @@
 
 - 👨‍💻 Participei do projeto no contexto de um e-commerce: [Machine Learning do Início ao Fim](https://github.com/Iago-Pereira/olist-ml-models)
 
-- 👨‍💻 Repositório de Manipulação e Análise de Dados: [Pandas]([https://github.com/Iago-Pereira/desbravando-pandas](https://github.com/Iago-Pereira/pandas_2025))
+- 👨‍💻 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
 
 - 👨‍💻 Modelos desenvolvidos na disciplina: [Aprendizado de Máquina I](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
 
