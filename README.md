@@ -7,7 +7,7 @@
 
 - 👨‍💻 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
 
-- 👨‍💻 Modelos desenvolvidos na disciplina: [Aprendizado de Máquina I](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
+- 👨‍💻 Modelos de Machine Learning: [Aprendizado de Máquina I](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
