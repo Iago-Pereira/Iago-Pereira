@@ -9,7 +9,7 @@
 
 - 📊 DashBoards Power BI:
 
-  - [Análise de Camapanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9)
+  - [Análise de Resultados das Camapanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
