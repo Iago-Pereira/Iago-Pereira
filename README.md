@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Iago Pereira</h1>
 <h3 align="center">Estudante e Grande Entusiasta da Ciência de Dados</h3>
 
-- 🔭 EDA desenvolvida em equipe: [Projeto Aplicado I](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
+- 🔭 EDA desenvolvida em equipe: [Projeto Aplicado](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
 
 - 👨‍💻 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
 
