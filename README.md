@@ -1,15 +1,36 @@
 <h1 align="center">Olá 👋, eu sou Iago Pereira</h1>
 <h3 align="center">Estudante e Grande Entusiasta da Ciência de Dados</h3>
 
+---
+
+### 🧑‍💼 Sobre
+
+Graduando em **Tecnologia em Ciência de Dados** pela Mackenzie, com experiência prática em **Visão Computacional**, adquirida na **Residência Tecnológica do CPQD-Campinas**. Desenvolvi modelos avançados de **classificação de células infectadas por malária** utilizando **Vision Transformers**, aprimorando a precisão diagnóstica.  
+Sou apaixonado por **Ciência de Dados**, **Blockchain** e **Internet das Coisas**, buscando constantemente **soluções inovadoras** e **otimizações tecnológicas** para transformar desafios complexos em resultados estratégicos.
+
+---
+
+### 📄 Publicações
+
+- 🧬 **Classification of Cells Infected by Malaria with Vision Transformers Models**  
+  Publicado na *RITA (Revista de Informática Teórica e Aplicada)*  
+  [🔗 Acesse o artigo](https://seer.ufrgs.br/index.php/rita/article/view/143548)
+
+---
+
+### 💼 Projetos em Destaque
+
 - 🔬 Análise Exploratória de Dados em Equipe: [Projeto Aplicado](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
-
 - 🧮 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
-
 - 🤖 Modelos de Machine Learning: [Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
 
-- 📊 DashBoards Power BI:
+---
 
-  - [Análise de Resultados das Camapanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9)
+### 📊 Dashboards Power BI
+
+- 📈 [Análise de Resultados das Campanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +42,7 @@
   </a>
 </p>
 
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
