@@ -5,7 +5,9 @@
 
 ### 🧑‍💼 Sobre
 
-Graduando em **Tecnologia em Ciência de Dados** pela Mackenzie, com experiência prática em **Visão Computacional**, adquirida na **Residência Tecnológica do CPQD-Campinas**. Desenvolvi modelos avançados de **classificação de células infectadas por malária** utilizando **Vision Transformers**, aprimorando a precisão diagnóstica.  Sou apaixonado por **Ciência de Dados**, **Blockchain** e **Internet das Coisas**, buscando constantemente **soluções inovadoras** e **otimizações tecnológicas** para transformar desafios complexos em resultados estratégicos.
+Graduando em **Tecnologia em Ciência de Dados** pela Mackenzie, com experiência prática em **Visão Computacional**, adquirida na **Residência Tecnológica do CPQD-Campinas**. Desenvolvi modelos avançados de **classificação de células infectadas por malária** utilizando **Vision Transformers**, aprimorando a precisão diagnóstica.  
+
+Sou apaixonado por **Ciência de Dados**, **Blockchain** e **Internet das Coisas**, buscando constantemente **soluções inovadoras** e **otimizações tecnológicas** para transformar desafios complexos em resultados estratégicos.
 
 ---
 
