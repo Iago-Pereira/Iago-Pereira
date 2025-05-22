@@ -3,11 +3,13 @@
 
 - 🔭 EDA desenvolvida em equipe: [Projeto Aplicado I](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
 
-- 👨‍💻 Participei do projeto no contexto de um e-commerce: [Machine Learning do Início ao Fim](https://github.com/Iago-Pereira/olist-ml-models)
-
 - 👨‍💻 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
 
 - 👨‍💻 Modelos de Machine Learning: [Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
+
+- 📊 DashBoards Power BI:
+
+  - [Análise de Camapanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
