@@ -3,9 +3,9 @@
 
 - 🔭 EDA desenvolvida em equipe: [Projeto Aplicado](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
 
-- 👨‍💻 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
+- 🧮 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
 
-- 👨‍💻 Modelos de Machine Learning: [Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
+- 🤖 Modelos de Machine Learning: [Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
 
 - 📊 DashBoards Power BI:
 
