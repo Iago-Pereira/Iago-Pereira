@@ -1,15 +1,15 @@
 <h1 align="center">Olá 👋, eu sou Iago Pereira</h1>
 <h3 align="center">Estudante e Grande Entusiasta da Ciência de Dados</h3>
 
-- 🔭 EDA desenvolvida em equipe: [Projeto Aplicado](https://github.com/NaveProjetoI/Projeto-Aplicado-I) 🔗
+- 🔭 Análise Exploratória de Dados em Equipe: [Projeto Aplicado](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
 
-- 🧮 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025) 🔗
+- 🧮 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
 
-- 🤖 Modelos de Machine Learning: [Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I) 🔗
+- 🤖 Modelos de Machine Learning: [Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
 
 - 📊 DashBoards Power BI:
 
-  - [Análise de Camapanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9) 🔗
+  - [Análise de Camapanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
