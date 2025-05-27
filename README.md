@@ -15,22 +15,22 @@ Sou apaixonado por **Ciência de Dados**, **Blockchain** e **Internet das Coisas
 
 - 🧬 **Classification of Cells Infected by Malaria with Vision Transformers Models**  
   Publicado na *RITA (Revista de Informática Teórica e Aplicada)*  
-  [🔗 Acesse o artigo](https://seer.ufrgs.br/index.php/rita/article/view/143548)
+  🔗 <a href="https://seer.ufrgs.br/index.php/rita/article/view/143548" target="_blank">Acesse o artigo</a>
 
 ---
 
 ### 💼 Projetos em Destaque
 
-- 🛍️ [Pipeline ETL para Análise de Dados de Vendas no Varejo com Python e SQL](https://github.com/Iago-Pereira/End2End_PythonSQL)
-- 🧮 [Repositório de Manipulação e Análise de Dados - Pandas](https://github.com/Iago-Pereira/pandas_2025)
-- 🔬 [Análise Exploratória de Dados em Equipe - Projeto Aplicado](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
-- 🤖 [Modelos de Machine Learning - Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
+- 🛍️ <a href="https://github.com/Iago-Pereira/End2End_PythonSQL" target="_blank">Pipeline ETL para Análise de Dados de Vendas no Varejo com Python e SQL</a>
+- 🧮 <a href="https://github.com/Iago-Pereira/pandas_2025" target="_blank">Repositório de Manipulação e Análise de Dados - Pandas</a>
+- 🔬 <a href="https://github.com/NaveProjetoI/Projeto-Aplicado-I" target="_blank">Análise Exploratória de Dados em Equipe - Projeto Aplicado</a>
+- 🤖 <a href="https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I" target="_blank">Modelos de Machine Learning - Aprendizado de Máquina</a>
 
 ---
 
 ### 📊 Dashboards Power BI
 
-- 📈 [Análise Resultados de Campanhas de Marketing](https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9)
+📈 <a href="https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9" target="_blank">Análise Resultados de Campanhas de Marketing</a>
 
 ---
 
