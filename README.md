@@ -21,9 +21,9 @@ Sou apaixonado por **Ciência de Dados**, **Blockchain** e **Internet das Coisas
 
 ### 💼 Projetos em Destaque
 
-- 🔬 Análise Exploratória de Dados em Equipe: [Projeto Aplicado](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
-- 🧮 Repositório de Manipulação e Análise de Dados: [Pandas](https://github.com/Iago-Pereira/pandas_2025)
-- 🤖 Modelos de Machine Learning: [Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
+- 🔬 [Análise Exploratória de Dados em Equipe - Projeto Aplicado](https://github.com/NaveProjetoI/Projeto-Aplicado-I)
+- 🧮 [Repositório de Manipulação e Análise de Dados - Pandas](https://github.com/Iago-Pereira/pandas_2025)
+- 🤖 [Modelos de Machine Learning - Aprendizado de Máquina](https://github.com/Iago-Pereira/Aprendizado-De-Maquina-I)
 - 🛍️ [Pipeline ETL para Análise de Dados de Vendas no Varejo com Python e SQL](https://github.com/Iago-Pereira/End2End_PythonSQL)
 
 ---
