@@ -30,6 +30,7 @@ Sou apaixonado por **Ciência de Dados**, **Blockchain** e **Internet das Coisas
 
 ### 📊 Dashboards Power BI
 
+- 🏢 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2YyYmQzYTAtYzEwNy00NDllLThmYjAtOThiNWMxNjk3YWJjIiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9" target="_blank">Dashboard Comercial - Performance de Vendas</a>
 - 📈 <a href="https://app.powerbi.com/view?r=eyJrIjoiZTQ0MzdlMzAtNzg1Ni00MjM1LWJkZTctNjk2ZGZhOGNlYzA4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9" target="_blank">Análise Resultados de Campanhas de Marketing</a>
 
 ---
